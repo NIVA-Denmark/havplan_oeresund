@@ -1,7 +1,5 @@
 rm(list=ls())
 library(readr)
-test
- 
 
 source("regridEIM.R")
 
