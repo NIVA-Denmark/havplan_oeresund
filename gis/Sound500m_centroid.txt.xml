@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="da"><Esri><CreaDate>20180529</CreaDate><CreaTime>17021100</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.2\ArcToolbox\Toolboxes\Spatial Statistics Tools.tbx\ExportXYv" Date="20180529" Time="170211">ExportXYv Sound500m ID500m COMMA C:\Data\GitHub\Havplan_Oeresund\gis\Sound500m_centroid.csv ADD_FIELD_NAMES</Process></lineage></DataProperties></Esri></metadata>
